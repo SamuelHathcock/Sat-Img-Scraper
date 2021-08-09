@@ -11,4 +11,4 @@ Here we have the normal RGB sattelite image:
 And here we have the SO2 levels product:
   ![jma_so2](https://github.com/SamuelHathcock/Web-Scraper/blob/master/assets/jma_so2.png)
 
-Jupyter notebook will be used for the analysis of this data.
+
